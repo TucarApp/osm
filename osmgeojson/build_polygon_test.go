@@ -4,9 +4,9 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/osm"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/geojson"
+	"github.com/TucarApp/osm"
 )
 
 func TestConvert_polygon(t *testing.T) {

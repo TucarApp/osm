@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 func TestJoin(t *testing.T) {

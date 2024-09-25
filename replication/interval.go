@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/paulmach/osm"
+	"github.com/TucarApp/osm"
 )
 
 var _ SeqNum = MinuteSeqNum(0)

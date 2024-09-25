@@ -1,4 +1,4 @@
-# osm [![CI](https://github.com/paulmach/osm/workflows/CI/badge.svg)](https://github.com/paulmach/osm/actions?query=workflow%3ACI+event%3Apush) [![Go Report Card](https://goreportcard.com/badge/github.com/paulmach/osm)](https://goreportcard.com/report/github.com/paulmach/osm) [![Go Reference](https://pkg.go.dev/badge/github.com/paulmach/osm.svg)](https://pkg.go.dev/github.com/paulmach/osm)
+# osm [![CI](https://github.com/TucarApp/osm/workflows/CI/badge.svg)](https://github.com/TucarApp/osm/actions?query=workflow%3ACI+event%3Apush) [![Go Report Card](https://goreportcard.com/badge/github.com/TucarApp/osm)](https://goreportcard.com/report/github.com/TucarApp/osm) [![Go Reference](https://pkg.go.dev/badge/github.com/TucarApp/osm.svg)](https://pkg.go.dev/github.com/TucarApp/osm)
 
 This package is a general purpose library for reading, writing and working
 with [OpenStreetMap](https://osm.org) data in Go (golang). It has the ability to:
@@ -111,7 +111,7 @@ They can be enabled with something like this:
 ```go
 import (
   jsoniter "github.com/json-iterator/go"
-  "github.com/paulmach/osm"
+  "github.com/TucarApp/osm"
 )
 
 var c = jsoniter.Config{

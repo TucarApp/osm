@@ -1,4 +1,4 @@
-# osm/osmpbf [![Go Reference](https://pkg.go.dev/badge/github.com/paulmach/osm.svg)](https://pkg.go.dev/github.com/paulmach/osm/osmpbf)
+# osm/osmpbf [![Go Reference](https://pkg.go.dev/badge/github.com/TucarApp/osm.svg)](https://pkg.go.dev/github.com/TucarApp/osm/osmpbf)
 
 Package osmpbf provides a scanner for decoding large [OSM PBF](https://wiki.openstreetmap.org/wiki/PBF_Format) files.
 They are typically found at [planet.osm.org](https://planet.openstreetmap.org/) or [Geofabrik Download](https://download.geofabrik.de/).

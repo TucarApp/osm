@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/osm"
+	"github.com/TucarApp/orb/geojson"
+	"github.com/TucarApp/osm"
 )
 
 var nodeXML = `

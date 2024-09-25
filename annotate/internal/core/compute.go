@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/paulmach/osm"
-	"github.com/paulmach/osm/annotate/shared"
+	"github.com/TucarApp/osm"
+	"github.com/TucarApp/osm/annotate/shared"
 )
 
 // A Datasourcer is something that acts like a datasource allowing us to

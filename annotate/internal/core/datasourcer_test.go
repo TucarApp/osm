@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/paulmach/osm"
+	"github.com/TucarApp/osm"
 )
 
 var _ Datasourcer = &TestDS{}

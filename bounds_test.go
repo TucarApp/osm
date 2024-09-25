@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/paulmach/orb/maptile"
+	"github.com/TucarApp/orb/maptile"
 )
 
 func TestNewBoundFromTile(t *testing.T) {

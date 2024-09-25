@@ -3,7 +3,7 @@ package osm
 import (
 	"errors"
 
-	"github.com/paulmach/orb/maptile"
+	"github.com/TucarApp/orb/maptile"
 )
 
 // Bounds are the bounds of osm data as defined in the xml file.

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 func TestWay_ids(t *testing.T) {

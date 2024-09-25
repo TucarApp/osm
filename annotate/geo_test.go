@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/osm"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/osm"
 )
 
 func TestWayPointOnSurface(t *testing.T) {
